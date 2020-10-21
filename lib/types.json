@@ -1,0 +1,297 @@
+[
+  {
+    "type": "Style:",
+    "description": "Improving structure / format of the code.",
+    "name": "Style"
+  },
+  {
+    "type": "Perf:",
+    "description": "Improving performance.",
+    "name": "Perf"
+  },
+  {
+    "type": "Prune:",
+    "description": "Removing code or files.",
+    "name": "Prune"
+  },
+  {
+    "type": "Fix:",
+    "description": "Fixing a bug.",
+    "name": "Fix"
+  },
+  {
+    "type": "Critical-Fix:",
+    "description": "Critical hotfix.",
+    "name": "Critical-Fix"
+  },
+  {
+    "type": "Feature:",
+    "description": "Introducing new features.",
+    "name": "Feature"
+  },
+  {
+    "type": "Docs:",
+    "description": "Writing docs.",
+    "name": "Docs"
+  },
+  {
+    "type": "Deploy:",
+    "description": "Deploying stuff.",
+    "name": "Deploy"
+  },
+  {
+    "type": "Ui:",
+    "description": "Updating the UI and style files.",
+    "name": "Ui"
+  },
+  {
+    "type": "Init:",
+    "description": "Initial commit.",
+    "name": "Init"
+  },
+  {
+    "type": "Test:",
+    "description": "Adding tests.",
+    "name": "Test"
+  },
+  {
+    "type": "Security:",
+    "description": "Fixing security issues.",
+    "name": "Security"
+  },
+  {
+    "type": "Osx:",
+    "description": "Fixing something on macOS.",
+    "name": "Osx"
+  },
+  {
+    "type": "Linux:",
+    "description": "Fixing something on Linux.",
+    "name": "Linux"
+  },
+  {
+    "type": "Windows:",
+    "description": "Fixing something on Windows.",
+    "name": "Windows"
+  },
+  {
+    "type": "Android:",
+    "description": "Fixing something on Android.",
+    "name": "Android"
+  },
+  {
+    "type": "Ios:",
+    "description": "Fixing something on iOS.",
+    "name": "Ios"
+  },
+  {
+    "type": "Release:",
+    "description": "Releasing / Version tags.",
+    "name": "Release"
+  },
+  {
+    "type": "Lint:",
+    "description": "Removing linter warnings.",
+    "name": "Lint"
+  },
+  {
+    "type": "WIP:",
+    "description": "Work in progress.",
+    "name": "WIP"
+  },
+  {
+    "type": "Fix-CI:",
+    "description": "Fixing CI Build.",
+    "name": "Fix-CI"
+  },
+  {
+    "type": "Downgrade:",
+    "description": " Downgrading dependencies.",
+    "name": "Downgrade"
+  },
+  {
+    "type": "Upgrade:",
+    "description": " Upgrading dependencies.",
+    "name": "Upgrade"
+  },
+  {
+    "type": "Pushpin:",
+    "description": "Pinning dependencies to specific versions.",
+    "name": "Pushpin"
+  },
+  {
+    "type": "CI:",
+    "description": "Adding CI build system.",
+    "name": "CI"
+  },
+  {
+    "type": "Analytics:",
+    "description": "Adding analytics or tracking code.",
+    "name": "Analytics"
+  },
+  {
+    "type": "Refactoring:",
+    "description": " Refactoring code.",
+    "name": "Refactoring"
+  },
+  {
+    "type": "Docker:",
+    "description": "Work about Docker.",
+    "name": "Docker"
+  },
+  {
+    "type": "Dep-add:",
+    "description": "Adding a dependency.",
+    "name": "Dep-add"
+  },
+  {
+    "type": "Dep-rm:",
+    "description": "Removing a dependency.",
+    "name": "Dep-rm"
+  },
+  {
+    "type": "Config:",
+    "description": "Changing configuration files.",
+    "name": "Config"
+  },
+  {
+    "type": "Typo-Fix:",
+    "description": " Fixing typos.",
+    "name": "Typo-Fix"
+  },
+  {
+    "type": "Poo:",
+    "description": "Writing bad code that needs to be improved.",
+    "name": "Poo"
+  },
+  {
+    "type": "Revert:",
+    "description": "Reverting changes.",
+    "name": "Revert"
+  },
+  {
+    "type": "Merge:",
+    "description": "Merging branches.",
+    "name": "Merge"
+  },
+  {
+    "type": "Dep-up:",
+    "description": "Updating compiled files or packages.",
+    "name": "Dep-up"
+  },
+  {
+    "type": "License:",
+    "description": "Adding or updating license.",
+    "name": "License"
+  },
+  {
+    "type": "Breaking:",
+    "description": "Introducing breaking changes.",
+    "name": "Breaking"
+  },
+  {
+    "type": "Assets:",
+    "description": "Adding or updating assets.",
+    "name": "Assets"
+  },
+  {
+    "type": "Review:",
+    "description": "Updating code due to code review changes.",
+    "name": "Review"
+  },
+  {
+    "type": "Access:",
+    "description": "Improving accessibility.",
+    "name": "Access"
+  },
+  {
+    "type": "Docs-code:",
+    "description": "Documenting source code.",
+    "name": "Docs-code"
+  },
+  {
+    "type": "Beer:",
+    "description": "Writing code drunkenly.",
+    "name": "Beer"
+  },
+  {
+    "type": "Texts:",
+    "description": "Updating text and literals.",
+    "name": "Texts"
+  },
+  {
+    "type": "DB:",
+    "description": " Performing database related changes.",
+    "name": "DB"
+  },
+  {
+    "type": "Log-add:",
+    "description": "Adding logs.",
+    "name": "Log-add"
+  },
+  {
+    "type": "Log-rm:",
+    "description": "Removing logs.",
+    "name": "Log-rm"
+  },
+  {
+    "type": "Contrib-add:",
+    "description": "Adding contributor(s).",
+    "name": "Contrib-add"
+  },
+  {
+    "type": "Ux:",
+    "description": "Improving user experience / usability.",
+    "name": "Ux"
+  },
+  {
+    "type": "Arch:",
+    "description": " Making architectural changes.",
+    "name": "Arch"
+  },
+  {
+    "type": "Responsive:",
+    "description": "Working on responsive design.",
+    "name": "Responsive"
+  },
+  {
+    "type": "Ignore:",
+    "description": "Adding or updating a .gitignore file",
+    "name": "Ignore"
+  },
+  {
+    "type": "Snapshot:",
+    "description": "Adding or updating snapshots",
+    "name": "Snapshot"
+  },
+  {
+    "type": "Experiment:",
+    "description": " Experimenting new things",
+    "name": "Experiment"
+  },
+  {
+    "type": "SEO:",
+    "description": "Improving SEO",
+    "name": "SEO"
+  },
+  {
+    "type": "Types:",
+    "description": " Adding or updating types (Flow, TypeScript)",
+    "name": "Types"
+  },
+  {
+    "type": "Seed:",
+    "description": "Adding or updating seed files",
+    "name": "Seed"
+  },
+  {
+    "type": "Flags:",
+    "description": "Adding, updating, or removing feature flags",
+    "name": "Flags"
+  },
+  {
+    "type": "Animation:",
+    "description": "Adding or updating animations and transitions",
+    "name": "Animation"
+  }
+]
